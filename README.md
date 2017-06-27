@@ -15,6 +15,8 @@ Adobe 中文版测试通过。
 4. 颜色选择，部分参考Civati的使用手册。
 5. 程序的DPI缩放可能会影响使用。
 
+![Sample Video](https://raw.githubusercontent.com/kongsn/pdfhighlighthelper/master/PdfHH.webm)
+
 致谢：
 原版本作者jtanx，
 https://gist.github.com/jtanx/09c8f0e6f31ecb61c3d5d3faddbaf559
